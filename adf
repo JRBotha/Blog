@@ -1,0 +1,53 @@
+[33mcommit f7441fc1d164acad3d88d50f506acf0fa95261a8[m
+Author: JRBotha <jr.botha@outlook.com>
+Date:   Sat May 27 04:22:29 2017 -0700
+
+    heroku fix
+
+[33mcommit c1609137843949efb53628f9666cc85e26d178da[m
+Author: JRBotha <jr.botha@outlook.com>
+Date:   Sat May 27 04:10:55 2017 -0700
+
+    heroku push
+
+[33mcommit 15acdc5043452df53725d82c1602dcd439b4e0d9[m
+Author: JRBotha <jr.botha@outlook.com>
+Date:   Sat May 27 03:58:34 2017 -0700
+
+    deploy authentication
+
+[33mcommit 507b7871ef5ede77454bff095c73562f08728c86[m
+Author: JRBotha <jr.botha@outlook.com>
+Date:   Tue May 23 12:30:21 2017 -0700
+
+    added a gem for uploading image
+
+[33mcommit 9d9a3180a5962f3c7d44f7a6db6cb82898727f2c[m
+Author: JRBotha <jr.botha@outlook.com>
+Date:   Sun May 14 03:08:46 2017 -0700
+
+    finished blog comments feature
+
+[33mcommit 3f4026fb993c74b53c9065e420c2d31134423e5c[m
+Author: JRBotha <jr.botha@outlook.com>
+Date:   Sat May 13 09:15:54 2017 -0700
+
+    form-based workflow feature completed
+
+[33mcommit eae8d88d282e79aa9fd44601ffebdb8163d2c020[m
+Author: JRBotha <jr.botha@outlook.com>
+Date:   Sat May 13 07:02:12 2017 -0700
+
+    first commit
+
+[33mcommit 718229cd0a73425de290fe0a2b39c98dbf1e9279[m
+Author: JRBotha <jr.botha@outlook.com>
+Date:   Sat May 13 07:01:03 2017 -0700
+
+    first commit
+
+[33mcommit c6ac4d7f72d8b105632c0cdf0a77f29713b7d9d0[m
+Author: JRBotha <jr.botha@outlook.com>
+Date:   Sat May 13 06:25:25 2017 -0700
+
+    first blogger commit
