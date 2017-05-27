@@ -41,13 +41,11 @@ gem 'sorcery'
 group :development, :test do
   gem 'byebug', platform: :mri
   gem 'sqlite3'
-<<<<<<< HEAD
 end
 
 group :production do
   gem 'pg'
-=======
->>>>>>> 7fb68509ced464330ceefa49af841adad0f8c453
+
 end
 
 group :production do
