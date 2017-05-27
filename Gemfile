@@ -39,14 +39,21 @@ gem 'sorcery'
 # gem 'capistrano-rails', group: :development
 
 group :development, :test do
-  # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug', platform: :mri
   gem 'sqlite3'
+<<<<<<< HEAD
+end
+
+group :production do
+  gem 'pg'
+=======
+>>>>>>> 7fb68509ced464330ceefa49af841adad0f8c453
 end
 
 group :production do
   gem 'pg'
 end
+
 
 group :development do
   # Access an IRB console on exception pages or by using <%= console %> anywhere in the code.
